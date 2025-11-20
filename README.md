@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm ruhatrix</h1>
-<h3 align="center">🎨 UI/UX Designer | 💻 Front-End Developer</h3>
+<h3 align="center">🎨 UI/UX Designer | 💻 React Developer</h3>
 
 
 
