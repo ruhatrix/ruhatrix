@@ -10,28 +10,6 @@ I enjoy turning ideas into real-world applications and continuously learning new
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🎨 Design
-- Figma
-- Adobe XD
-- Photoshop
-
-### 💻 Frontend
-- HTML, CSS, JavaScript
-- React.js
-- Tailwind CSS
-- Nextjs
-
-### ⚙️ Backend
-- Node.js
-- Express.js
-
-### 🗄️ Database
-- MongoDB
-- MySQL
-
----
 
 ## 📌 What I Do
 - Design intuitive and engaging user interfaces  
