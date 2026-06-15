@@ -13,7 +13,5 @@ I enjoy turning ideas into real-world applications and continuously learning new
 - Develop fullstack solutions from scratch  
 - Optimize performance and user experience  
 ---
-## ⚡ Fun Fact
-I blend **design + code** to create products that not only work well but feel great to use 🚀
----
+
 
