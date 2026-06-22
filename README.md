@@ -29,3 +29,7 @@ I enjoy turning ideas into real-world applications and continuously learning new
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhatrix&layout=compact&theme=github_dark)
 
+## 📊 GitHub Stats
+
+![Ruhatrix GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruhatrix&show_icons=true&theme=github_dark)
+
