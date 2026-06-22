@@ -14,5 +14,5 @@ I enjoy turning ideas into real-world applications and continuously learning new
 - Optimize performance and user experience  
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ruhatrix&background=FFFFFF&border=E4E2E2&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6)
+![GitHub Streak](https://streak-stats.demolab.com?user=ruhatrix&theme=github-dark)
 
