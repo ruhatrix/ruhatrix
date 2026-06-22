@@ -24,16 +24,9 @@ I enjoy turning ideas into real-world applications and continuously learning new
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ruhatrix&theme=github-dark)
-----
-## 📊 GitHub Stats
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruhatrix&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhatrix&layout=compact&theme=github_dark)
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=ruhatrix&theme=github-dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ruhatrix&theme=github-dark)
-
-![GitHub Snake](https://raw.githubusercontent.com/ruhatrix/ruhatrix/output/github-contribution-grid-snake.svg)
 
