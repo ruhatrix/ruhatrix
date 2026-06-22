@@ -1,6 +1,6 @@
 # 👋 Hello there, I'm Ruhatrix
 
-🎨 UI/UX Designer | 💻 Fullstack Developer  
+🎨 UI/UX Designer | 💻 Fullstack Developer  | https://komarev.com/ghpvc/?username=ruhatrix&label=Profile%20Views&color=0e75b6&style=flat
 ---
 ## 🚀 About Me
 I'm a passionate **UI/UX Designer** and **Fullstack Developer** who loves building clean, user-friendly, and scalable digital experiences.  
