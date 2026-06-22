@@ -1,7 +1,7 @@
 # 👋 Hello there, I'm Ruhatrix
 
 🎨 UI/UX Designer | 💻 Fullstack Developer | 
-![Profile Views](https://komarev.com/ghpvc/?username=ruhatrix&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ruhatrix&label=Profile%20Views&color=brightgreen&style=flat)
 
 ---
 
@@ -22,6 +22,5 @@ I enjoy turning ideas into real-world applications and continuously learning new
 
 ---
 
-## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ruhatrix&theme=github-dark)
