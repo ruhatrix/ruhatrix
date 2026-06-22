@@ -26,7 +26,7 @@ I enjoy turning ideas into real-world applications and continuously learning new
 ![GitHub Streak](https://streak-stats.demolab.com?user=ruhatrix&theme=github-dark)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruhatrix&show_icons=true&theme=github_dark)
+
 
 
 
