@@ -23,7 +23,7 @@ I enjoy turning ideas into real-world applications and continuously learning new
 ---
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ruhatrix&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=ruhatrix&theme=github-dark&cache_seconds=3600)
 
 
 
