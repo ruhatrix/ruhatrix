@@ -27,3 +27,5 @@ I enjoy turning ideas into real-world applications and continuously learning new
 ----
 ![Ruhatrix Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ruhatrix&theme=github-dark)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhatrix&layout=compact&theme=github_dark)
+
