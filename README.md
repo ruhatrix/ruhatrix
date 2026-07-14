@@ -25,6 +25,7 @@ I enjoy turning ideas into real-world applications and continuously learning new
 - 📧 **Email:** [ruhatrix@gmail.com](mailto:ruhatrix@gmail.com)
 
 
+---
 ![GitHub Streak](https://streak-stats.demolab.com?user=ruhatrix&theme=github-dark&cache_seconds=60)
 
 ---
